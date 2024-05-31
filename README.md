@@ -29,8 +29,8 @@ A clean and responsive product listing page built with Next.js, Tailwind CSS, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/product-listing-page.git
-   cd product-listing-page
+   git clone https://github.com/your-username/product-list-page.git
+   cd product-list-page
 
    ```
 
