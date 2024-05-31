@@ -50,7 +50,7 @@ A clean and responsive product listing page built with Next.js, Tailwind CSS, an
 
 4. Open your browser and visit `http://localhost:3000` to see the app in action.
 
-### Usage
+## Usage
 
 1. **Viewing Products**
 
